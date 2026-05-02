@@ -94,7 +94,7 @@ Discount vs Profit (scatter analysis)
 Interactive slicers (Date, Region, Category)
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](https://github.com/Gaurav0158/Blinkit-PowerBI-Dashboard/blob/main/dashboard_preview.jpg)
+![Dashboard Preview](https://github.com/Gaurav0158/Super-Store-Business_Sales/blob/main/SuperStore.jpg)
 
 
 🚀 Conclusion
