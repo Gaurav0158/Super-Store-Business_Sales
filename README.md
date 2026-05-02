@@ -93,6 +93,10 @@ Discount vs Profit (scatter analysis)
 
 Interactive slicers (Date, Region, Category)
 
+## 📸 Dashboard Preview
+![Dashboard Preview](https://github.com/Gaurav0158/Blinkit-PowerBI-Dashboard/blob/main/dashboard_preview.jpg)
+
+
 🚀 Conclusion
 
 This project highlights that high sales alone do not guarantee business success.
